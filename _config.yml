@@ -8,8 +8,8 @@ course_description: "Connected is an innovative and exciting virtual summer prog
 course_semester: "Summer 2023"
 
 # Git Pages Settings
-baseurl: "/codeattacc-connected" # the subpath of your site, e.g. /blog/
-url: "https://jeaimehp.github.io/" # the base hostname & protocol for your site
+baseurl: "/connected/" # the subpath of your site, e.g. /blog/
+url: "https://code-at-tacc.github.io/" # the base hostname & protocol for your site
 
 # Local Settings
 #baseurl: "" # the subpath of your site, e.g. /blog/
