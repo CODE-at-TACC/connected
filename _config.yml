@@ -9,7 +9,7 @@ course_semester: "Summer 2023"
 
 # Git Pages Settings
 baseurl: "/connected/" # the subpath of your site, e.g. /blog/
-url: "https://code-at-tacc.github.io/" # the base hostname & protocol for your site
+url: "https://code-at-tacc.github.io" # the base hostname & protocol for your site
 
 # Local Settings
 #baseurl: "" # the subpath of your site, e.g. /blog/
